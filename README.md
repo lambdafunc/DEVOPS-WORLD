@@ -31,8 +31,10 @@ Start with engineering fundamentals, build practical systems, and gradually move
 
 3. Networking [ID: FUND-COMP-003](https://github.com/veriqta/DEVOPS-WORLD/tree/da271c4cdd7dff114ecdf881e3e1b2aa3d4721b0/03.%20LEARNING%20RESOURCES/03.%20Networking)
 
-4. Git and GitHub
-5. Bash and shell scripting
+4. Git and GitHub [ID: VCS-GIT-GITHUB-004](https://github.com/veriqta/DEVOPS-WORLD/tree/ca5e5f9cbff0033449fe78c8ed3368967d9a4017/03.%20LEARNING%20RESOURCES/04.%20GIT%20%26%20GITHUB)
+
+5. Bash and shell scripting [ID: SCRIPT-BASH-005](https://github.com/veriqta/DEVOPS-WORLD/tree/ca5e5f9cbff0033449fe78c8ed3368967d9a4017/03.%20LEARNING%20RESOURCES/05.%20Bash%20and%20Shell%20Scripting)
+
 6. YAML and JSON
 7. Python for automation
 
