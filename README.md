@@ -11,7 +11,6 @@ DEVOPS WORLD is designed to help engineers move beyond learning isolated tools a
 
 Whether you are starting your first DevOps journey, preparing for an engineering role, building projects, working with Kubernetes, responding to incidents, or developing production engineering skills, this repository provides a structured place to learn and practice.
 
-Maintained by VERIQTA.
 
 ---
 
