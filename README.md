@@ -26,11 +26,16 @@ Start with engineering fundamentals, build practical systems, and gradually move
 
 1. Computer and operating system fundamentals. [ID: FUND-COMP-001](https://github.com/veriqta/DEVOPS-WORLD/tree/f2a3ba8347ab95f2d7d2ab5ca08faab96c8f6158/03.%20LEARNING%20RESOURCES/01.%20Computer%20Fundamentals)
 
-2. Linux
-3. Networking
-4. Git and GitHub
-5. Bash and shell scripting
+2. Linux [ID: OS-LINUX-002](https://github.com/veriqta/DEVOPS-WORLD/tree/e74e8fd6a8e0baf3e0ffc3dbe8d988efcb6157db/03.%20LEARNING%20RESOURCES/02.%20Linux)
+
+3. Networking [ID: FUND-COMP-003](https://github.com/veriqta/DEVOPS-WORLD/tree/da271c4cdd7dff114ecdf881e3e1b2aa3d4721b0/03.%20LEARNING%20RESOURCES/03.%20Networking)
+
+4. Git and GitHub [ID: VCS-GIT-GITHUB-004](https://github.com/veriqta/DEVOPS-WORLD/tree/ca5e5f9cbff0033449fe78c8ed3368967d9a4017/03.%20LEARNING%20RESOURCES/04.%20GIT%20%26%20GITHUB)
+
+5. Bash and shell scripting [ID: SCRIPT-BASH-005](https://github.com/veriqta/DEVOPS-WORLD/tree/ca5e5f9cbff0033449fe78c8ed3368967d9a4017/03.%20LEARNING%20RESOURCES/05.%20Bash%20and%20Shell%20Scripting)
+
 6. YAML and JSON
+
 7. Python for automation
 
 ### Stage 2: Infrastructure Foundations
@@ -139,7 +144,7 @@ Start with engineering fundamentals, build practical systems, and gradually move
 
 DEVOPS WORLD is organized by engineering domain rather than by a random collection of tools.
 
-## 01. Linux [ID: OS-LINUX-002](https://github.com/veriqta/DEVOPS-WORLD/tree/e74e8fd6a8e0baf3e0ffc3dbe8d988efcb6157db/03.%20LEARNING%20RESOURCES/02.%20Linux)
+## 01. Linux 
 
 Learn the operating system concepts infrastructure engineers use every day.
 
@@ -169,7 +174,7 @@ Topics include:
 
 ---
 
-## 02. Networking [ID: FUND-COMP-003](https://github.com/veriqta/DEVOPS-WORLD/tree/da271c4cdd7dff114ecdf881e3e1b2aa3d4721b0/03.%20LEARNING%20RESOURCES/03.%20Networking)
+## 02. Networking 
 
 Networking is one of the most important foundations for infrastructure engineering.
 
@@ -206,7 +211,7 @@ Topics include:
 
 ---
 
-## 03. Git and GitHub [ID: VCS-GIT-GITHUB-004](https://github.com/veriqta/DEVOPS-WORLD/tree/ca5e5f9cbff0033449fe78c8ed3368967d9a4017/03.%20LEARNING%20RESOURCES/04.%20GIT%20%26%20GITHUB)
+## 03. Git and GitHub
 
 Learn version control as an engineering workflow rather than simply memorizing Git commands.
 
@@ -238,7 +243,7 @@ Topics include:
 
 Infrastructure engineers do not need to become application developers, but they must understand automation.
 
-### Bash and Shell [ID: SCRIPT-BASH-005](https://github.com/veriqta/DEVOPS-WORLD/tree/ca5e5f9cbff0033449fe78c8ed3368967d9a4017/03.%20LEARNING%20RESOURCES/05.%20Bash%20and%20Shell%20Scripting)
+### Bash and Shell
 
 Learn:
 
