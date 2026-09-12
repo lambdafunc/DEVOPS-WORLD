@@ -5,7 +5,16 @@
 
 # DEVOPS WORLD
 
-A practical learning and engineering resource hub for DevOps, Cloud Engineering, Site Reliability Engineering, Platform Engineering, Infrastructure Engineering, Production Engineering, DevSecOps, and modern systems operations.
+A practical learning and engineering resource hub:
+
+- DevOps
+- Cloud Engineering
+- Site Reliability Engineering
+- Platform Engineering
+- Infrastructure Engineering
+- Production Engineering
+- DevSecOps
+- Modern systems operations
 
 DEVOPS WORLD is designed to help engineers move beyond learning isolated tools and understand how modern infrastructure is built, automated, deployed, secured, observed, operated, and troubleshot in production.
 
