@@ -25,295 +25,299 @@ Whether you are starting your first DevOps journey, preparing for an engineering
 
 # Start Here
 
+# VERIQTA DEVOPS ENGINEERING ROADMAP
+
+**Fundamentals → Automation → Cloud → Containers → Kubernetes → Production**
+
 > **You do not need to learn every tool on this roadmap. Follow the colors.**
-
-## VERIQTA DEVOPS ENGINEERING ROADMAP
-
-### Fundamentals → Automation → Cloud → Containers → Kubernetes → Production
-
-### COLOR GUIDE
-
-🟢 **CORE — LEARN**
-Essential for a strong DevOps foundation. Prioritize these.
-
-🔵 **CHOOSE ONE**
-These tools solve similar problems. **Choose one to learn first. You do not need all of them.**
-
-🟡 **LEARN THE BASICS**
-Understand the technology and get basic hands-on experience. Deep expertise is not required initially.
-
-⚪ **ADDED ADVANTAGE / LEARN LATER**
-Useful in some companies or specialized roles. Learn when your job, project, or career direction requires it.
 
 ---
 
-## 1. OPERATING SYSTEMS & FUNDAMENTALS
+## 🎨 COLOR GUIDE
 
-🟢 Linux
-🟢 Ubuntu
-🟡 RHEL / Rocky Linux / AlmaLinux
+🟢 **CORE — LEARN**  
+Essential for a strong DevOps foundation. Prioritize these.
+
+🔵 **CHOOSE ONE**  
+These tools solve similar problems. Choose one to learn first. You do not need to learn all of them.
+
+🟡 **LEARN THE BASICS**  
+Understand the technology and get basic hands-on experience. Deep expertise is not required initially.
+
+⚪ **ADDED ADVANTAGE — LEARN LATER**  
+Useful in some companies, environments, or specialized roles. Learn when your job, project, or career direction requires it.
+
+---
+
+# 1. OPERATING SYSTEMS & FUNDAMENTALS
+
+🟢 Linux  
+🟢 Ubuntu  
+🟡 RHEL / Rocky Linux / AlmaLinux  
 ⚪ Windows Server
 
 ↓
 
-## 2. NETWORKING
+# 2. NETWORKING
 
-🟢 TCP/IP
-🟢 DNS
-🟢 HTTP/HTTPS
-🟢 TLS/SSL
-🟢 SSH
-🟢 CIDR & Subnetting
-🟢 Routing
-🟢 Firewalls
-🟢 Load Balancing
+🟢 TCP/IP  
+🟢 DNS  
+🟢 HTTP/HTTPS  
+🟢 TLS/SSL  
+🟢 SSH  
+🟢 CIDR & Subnetting  
+🟢 Routing  
+🟢 Firewalls  
+🟢 Load Balancing  
 🟡 VPN
 
 ↓
 
-## 3. VERSION CONTROL
+# 3. VERSION CONTROL
 
-🟢 Git
-🟢 GitHub
-🔵 GitLab
+🟢 Git  
+🟢 GitHub  
+🔵 GitLab  
 🔵 Bitbucket
 
 ↓
 
-## 4. SCRIPTING & DATA FORMATS
+# 4. SCRIPTING & DATA FORMATS
 
-🟢 Bash / Shell
-🟢 Python
-🟢 YAML
-🟢 JSON
-🟡 HCL
+🟢 Bash / Shell  
+🟢 Python  
+🟢 YAML  
+🟢 JSON  
+🟡 HCL  
 ⚪ PowerShell
 
 ↓
 
-## 5. WEB SERVERS & REVERSE PROXIES
+# 5. WEB SERVERS & REVERSE PROXIES
 
-🟢 Nginx
-🟡 Apache HTTP Server
-⚪ HAProxy
-⚪ Traefik
-⚪ IIS
+🟢 Nginx  
+🟡 Apache HTTP Server  
+⚪ HAProxy  
+⚪ Traefik  
+⚪ IIS  
 ⚪ Tomcat
 
 ↓
 
-## 6. DATABASES & CACHING
+# 6. DATABASES & CACHING
 
-🔵 PostgreSQL
-🔵 MySQL
-🟡 Redis
-⚪ MongoDB
-⚪ DynamoDB
-⚪ Cassandra
+🔵 PostgreSQL  
+🔵 MySQL  
+🟡 Redis  
+⚪ MongoDB  
+⚪ DynamoDB  
+⚪ Cassandra  
 ⚪ Elasticsearch
 
-**For 🔵: choose PostgreSQL or MySQL first.**
+> **Start with PostgreSQL or MySQL. You do not need to learn every database.**
 
 ↓
 
-## 7. CLOUD
+# 7. CLOUD COMPUTING
 
-🔵 AWS
-🔵 Microsoft Azure
+🔵 AWS  
+🔵 Microsoft Azure  
 🔵 Google Cloud
 
-**Choose one cloud first.**
+> **Choose one cloud provider first.**
 
 ↓
 
-## 8. CONTAINERS
+# 8. CONTAINERS
 
-🟢 Docker
-🟢 Docker Compose
-🟢 Container Registries
-🟡 containerd
-⚪ Podman
+🟢 Docker  
+🟢 Docker Compose  
+🟢 Container Registries  
+🟡 containerd  
+⚪ Podman  
 ⚪ Buildah
 
 ↓
 
-## 9. INFRASTRUCTURE AS CODE
+# 9. INFRASTRUCTURE AS CODE
 
-🟢 Terraform / OpenTofu
-🔵 AWS CloudFormation
-🔵 Azure Bicep
+🟢 Terraform / OpenTofu  
+🔵 AWS CloudFormation  
+🔵 Azure Bicep  
 ⚪ Pulumi
 
-**Terraform or OpenTofu is the primary cross-cloud path. Provider-specific IaC can come later.**
+> **Start with Terraform or OpenTofu for a cross-cloud Infrastructure as Code foundation.**
 
 ↓
 
-## 10. CONFIGURATION MANAGEMENT
+# 10. CONFIGURATION MANAGEMENT
 
-🟢 Ansible
-⚪ Puppet
-⚪ Chef
+🟢 Ansible  
+⚪ Puppet  
+⚪ Chef  
 ⚪ Salt
 
 ↓
 
-## 11. CI/CD
+# 11. CI/CD
 
-🔵 GitHub Actions
-🔵 GitLab CI/CD
-🔵 Jenkins
-🔵 Azure DevOps Pipelines
-⚪ CircleCI
+🔵 GitHub Actions  
+🔵 GitLab CI/CD  
+🔵 Jenkins  
+🔵 Azure DevOps Pipelines  
+⚪ CircleCI  
 ⚪ AWS CodePipeline
 
-**Choose one CI/CD platform first.**
+> **Choose one CI/CD platform first.**
 
 ↓
 
-## 12. BUILD & CODE QUALITY
+# 12. BUILD & CODE QUALITY
 
-🟡 Maven
-🟡 SonarQube
-⚪ Gradle
+🟡 Maven  
+🟡 SonarQube  
+⚪ Gradle  
 ⚪ npm
 
 ↓
 
-## 13. ARTIFACT & PACKAGE MANAGEMENT
+# 13. ARTIFACT & PACKAGE MANAGEMENT
 
-🟡 JFrog Artifactory
-🟡 Sonatype Nexus
-🟡 GitHub Packages
-🟡 Amazon ECR
-🟡 Azure Container Registry
+🟡 JFrog Artifactory  
+🟡 Sonatype Nexus  
+🟡 GitHub Packages  
+🟡 Amazon ECR  
+🟡 Azure Container Registry  
 🟡 Google Artifact Registry
 
 ↓
 
-## 14. KUBERNETES & CONTAINER ORCHESTRATION
+# 14. KUBERNETES & CONTAINER ORCHESTRATION
 
-🟢 Kubernetes
-🟢 Helm
-🔵 Amazon EKS
-🔵 Azure AKS
-🔵 Google GKE
-⚪ OpenShift
-⚪ Rancher
+🟢 Kubernetes  
+🟢 Helm  
+🔵 Amazon EKS  
+🔵 Azure AKS  
+🔵 Google GKE  
+⚪ OpenShift  
+⚪ Rancher  
 ⚪ K3s
 
-**Learn Kubernetes, then use the managed Kubernetes service belonging to your chosen cloud.**
+> **Learn Kubernetes first. Then learn the managed Kubernetes service for your chosen cloud provider.**
 
 ↓
 
-## 15. GITOPS
+# 15. GITOPS
 
-🔵 Argo CD
+🔵 Argo CD  
 🔵 Flux
 
-**Choose one.**
+> **Choose one GitOps platform first.**
 
 ↓
 
-## 16. MONITORING & OBSERVABILITY
+# 16. MONITORING & OBSERVABILITY
 
-🟢 Prometheus
-🟢 Grafana
-🟢 OpenTelemetry
-🟡 Loki
-🟡 Elastic Stack
-🔵 Datadog
-🔵 Dynatrace
-🔵 New Relic
-⚪ Splunk
+🟢 Prometheus  
+🟢 Grafana  
+🟢 OpenTelemetry  
+🟡 Loki  
+🟡 Elastic Stack  
+🔵 Datadog  
+🔵 Dynatrace  
+🔵 New Relic  
+⚪ Splunk  
 ⚪ Jaeger
 
 ↓
 
-## 17. SECURITY & DEVSECOPS
+# 17. SECURITY & DEVSECOPS
 
-🟢 IAM
-🟢 Secrets Management
-🟢 Trivy
-🟡 HashiCorp Vault
-🟡 OWASP ZAP
-🟡 SonarQube
-🟡 Snyk
-🟡 OPA
-🟡 Falco
-⚪ Checkov
-⚪ Cosign
-⚪ Syft
+🟢 IAM  
+🟢 Secrets Management  
+🟢 Trivy  
+🟡 HashiCorp Vault  
+🟡 OWASP ZAP  
+🟡 SonarQube  
+🟡 Snyk  
+🟡 OPA  
+🟡 Falco  
+⚪ Checkov  
+⚪ Cosign  
+⚪ Syft  
 ⚪ Grype
 
 ↓
 
-## 18. KUBERNETES NETWORKING & PLATFORM TOOLS
+# 18. KUBERNETES NETWORKING & PLATFORM TOOLS
 
-🟡 CoreDNS
-🟡 Cilium
-⚪ Calico
-⚪ Istio
-⚪ cert-manager
+🟡 CoreDNS  
+🟡 Cilium  
+⚪ Calico  
+⚪ Istio  
+⚪ cert-manager  
 ⚪ External Secrets Operator
 
 ↓
 
-## 19. LOGGING
+# 19. LOGGING
 
-🟢 Linux/systemd logs
-🟡 Loki
-🟡 Elastic Stack
-⚪ Fluent Bit
-⚪ Fluentd
-⚪ Logstash
+🟢 Linux / systemd logs  
+🟡 Loki  
+🟡 Elastic Stack  
+⚪ Fluent Bit  
+⚪ Fluentd  
+⚪ Logstash  
 ⚪ Splunk
 
 ↓
 
-## 20. RELIABILITY & INCIDENT OPERATIONS
+# 20. RELIABILITY & INCIDENT OPERATIONS
 
-🟢 Prometheus
-🟢 Grafana
-🟡 PagerDuty
-🟡 Opsgenie / Jira Service Management
+🟢 Prometheus  
+🟢 Grafana  
+🟡 PagerDuty  
+🟡 Opsgenie / Jira Service Management  
 ⚪ ServiceNow
 
 ↓
 
-## 21. COLLABORATION & ENGINEERING WORKFLOW
+# 21. COLLABORATION & ENGINEERING WORKFLOW
 
-🟢 GitHub / GitLab
-🟡 Jira
-🟡 Confluence
-🟡 Slack
+🟢 GitHub / GitLab  
+🟡 Jira  
+🟡 Confluence  
+🟡 Slack  
 🟡 Microsoft Teams
 
 ↓
 
-## 22. ADVANCED / SPECIALIZATION
+# 22. ADVANCED & SPECIALIZATION TOOLS
 
-⚪ Backstage
-⚪ Crossplane
-⚪ Argo Rollouts
-⚪ Istio
-⚪ Cilium
-⚪ OpenCost
-⚪ Kubecost
-⚪ OpenFeature
+⚪ Backstage  
+⚪ Crossplane  
+⚪ Argo Rollouts  
+⚪ Istio  
+⚪ Cilium  
+⚪ OpenCost  
+⚪ Kubecost  
+⚪ OpenFeature  
 ⚪ HashiCorp Vault
 
-### ADVANCED CAREER PATHS
+---
 
-⚪ Site Reliability Engineering
-⚪ Platform Engineering
-⚪ Infrastructure Engineering
-⚪ Production Engineering
-⚪ DevSecOps
-⚪ GitOps
-⚪ FinOps
-⚪ Observability Engineering
-⚪ Release Engineering
-⚪ Cloud Security
+# ADVANCED CAREER PATHS
+
+⚪ Site Reliability Engineering  
+⚪ Platform Engineering  
+⚪ Infrastructure Engineering  
+⚪ Production Engineering  
+⚪ DevSecOps  
+⚪ GitOps  
+⚪ FinOps  
+⚪ Observability Engineering  
+⚪ Release Engineering  
+⚪ Cloud Security  
 ⚪ AI for Infrastructure / AIOps
 
 ---
@@ -321,47 +325,94 @@ Useful in some companies or specialized roles. Learn when your job, project, or 
 # THE PATH AT A GLANCE
 
 **Linux**
+
 ↓
+
 **Networking**
+
 ↓
+
 **Git + GitHub**
+
 ↓
+
 **Bash + Python + YAML + JSON**
+
 ↓
+
 **Web Servers + Databases**
+
 ↓
+
 **Choose One Cloud**
+
 ↓
+
 **Docker**
+
 ↓
-**Terraform/OpenTofu + Ansible**
+
+**Terraform / OpenTofu + Ansible**
+
 ↓
+
 **Choose One CI/CD Platform**
+
 ↓
+
 **Artifacts + Code Quality**
+
 ↓
+
 **Kubernetes + Helm**
+
 ↓
+
 **Choose One GitOps Tool**
+
 ↓
+
 **Observability**
+
 ↓
+
 **Security**
+
 ↓
+
 **Reliability + Production Operations**
+
 ↓
+
 **Projects + Troubleshooting + Career**
 
-### ONE FINAL MESSAGE ON THE ROADMAP
+---
 
-**Do not learn every logo.**
+# REMEMBER
 
-🟢 **Learn these first**
-🔵 **Choose one**
-🟡 **Know the basics**
-⚪ **Learn later when needed**
+> **Do not learn every logo.**
+
+🟢 **CORE — Learn these first**
+
+🔵 **CHOOSE ONE — Pick one alternative and become comfortable with it**
+
+🟡 **LEARN THE BASICS — Understand it and get some hands-on experience**
+
+⚪ **ADDED ADVANTAGE — Learn later when your role, project, or company requires it**
+
+---
+
+## DEVOPS IS NOT A TOOL COLLECTION
+
+The goal is not to collect technologies.
+
+The goal is to learn how to:
+
+**Learn → Build → Deploy → Automate → Operate → Monitor → Troubleshoot → Secure → Improve**
 
 **Principles first. Tools second. Build while you learn.**
+
+---
 
 
 
