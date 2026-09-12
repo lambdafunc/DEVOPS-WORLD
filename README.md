@@ -34,7 +34,7 @@ Start with engineering fundamentals, build practical systems, and gradually move
 
 5. Bash and shell scripting [ID: SCRIPT-BASH-005](https://github.com/veriqta/DEVOPS-WORLD/tree/ca5e5f9cbff0033449fe78c8ed3368967d9a4017/03.%20LEARNING%20RESOURCES/05.%20Bash%20and%20Shell%20Scripting)
 
-6. YAML and JSON
+6. YAML and JSON [ID: DATA-YAML-JSON-006](https://github.com/veriqta/DEVOPS-WORLD/tree/84e20ef9efd091b4b74a1a1c1976f3b5a4a867b5/03.%20LEARNING%20RESOURCES/06.%20YAML%20and%20JSON)
 
 7. Python for automation
 
