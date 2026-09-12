@@ -25,9 +25,345 @@ Whether you are starting your first DevOps journey, preparing for an engineering
 
 # Start Here
 
-Do not try to learn every technology at once.
+> **You do not need to learn every tool on this roadmap. Follow the colors.**
 
-Start with engineering fundamentals, build practical systems, and gradually move toward production-level concepts.
+## VERIQTA DEVOPS ENGINEERING ROADMAP
+
+### Fundamentals → Automation → Cloud → Containers → Kubernetes → Production
+
+### COLOR GUIDE
+
+🟢 **CORE — LEARN**
+Essential for a strong DevOps foundation. Prioritize these.
+
+🔵 **CHOOSE ONE**
+These tools solve similar problems. **Choose one to learn first. You do not need all of them.**
+
+🟡 **LEARN THE BASICS**
+Understand the technology and get basic hands-on experience. Deep expertise is not required initially.
+
+⚪ **ADDED ADVANTAGE / LEARN LATER**
+Useful in some companies or specialized roles. Learn when your job, project, or career direction requires it.
+
+---
+
+## 1. OPERATING SYSTEMS & FUNDAMENTALS
+
+🟢 Linux
+🟢 Ubuntu
+🟡 RHEL / Rocky Linux / AlmaLinux
+⚪ Windows Server
+
+↓
+
+## 2. NETWORKING
+
+🟢 TCP/IP
+🟢 DNS
+🟢 HTTP/HTTPS
+🟢 TLS/SSL
+🟢 SSH
+🟢 CIDR & Subnetting
+🟢 Routing
+🟢 Firewalls
+🟢 Load Balancing
+🟡 VPN
+
+↓
+
+## 3. VERSION CONTROL
+
+🟢 Git
+🟢 GitHub
+🔵 GitLab
+🔵 Bitbucket
+
+↓
+
+## 4. SCRIPTING & DATA FORMATS
+
+🟢 Bash / Shell
+🟢 Python
+🟢 YAML
+🟢 JSON
+🟡 HCL
+⚪ PowerShell
+
+↓
+
+## 5. WEB SERVERS & REVERSE PROXIES
+
+🟢 Nginx
+🟡 Apache HTTP Server
+⚪ HAProxy
+⚪ Traefik
+⚪ IIS
+⚪ Tomcat
+
+↓
+
+## 6. DATABASES & CACHING
+
+🔵 PostgreSQL
+🔵 MySQL
+🟡 Redis
+⚪ MongoDB
+⚪ DynamoDB
+⚪ Cassandra
+⚪ Elasticsearch
+
+**For 🔵: choose PostgreSQL or MySQL first.**
+
+↓
+
+## 7. CLOUD
+
+🔵 AWS
+🔵 Microsoft Azure
+🔵 Google Cloud
+
+**Choose one cloud first.**
+
+↓
+
+## 8. CONTAINERS
+
+🟢 Docker
+🟢 Docker Compose
+🟢 Container Registries
+🟡 containerd
+⚪ Podman
+⚪ Buildah
+
+↓
+
+## 9. INFRASTRUCTURE AS CODE
+
+🟢 Terraform / OpenTofu
+🔵 AWS CloudFormation
+🔵 Azure Bicep
+⚪ Pulumi
+
+**Terraform or OpenTofu is the primary cross-cloud path. Provider-specific IaC can come later.**
+
+↓
+
+## 10. CONFIGURATION MANAGEMENT
+
+🟢 Ansible
+⚪ Puppet
+⚪ Chef
+⚪ Salt
+
+↓
+
+## 11. CI/CD
+
+🔵 GitHub Actions
+🔵 GitLab CI/CD
+🔵 Jenkins
+🔵 Azure DevOps Pipelines
+⚪ CircleCI
+⚪ AWS CodePipeline
+
+**Choose one CI/CD platform first.**
+
+↓
+
+## 12. BUILD & CODE QUALITY
+
+🟡 Maven
+🟡 SonarQube
+⚪ Gradle
+⚪ npm
+
+↓
+
+## 13. ARTIFACT & PACKAGE MANAGEMENT
+
+🟡 JFrog Artifactory
+🟡 Sonatype Nexus
+🟡 GitHub Packages
+🟡 Amazon ECR
+🟡 Azure Container Registry
+🟡 Google Artifact Registry
+
+↓
+
+## 14. KUBERNETES & CONTAINER ORCHESTRATION
+
+🟢 Kubernetes
+🟢 Helm
+🔵 Amazon EKS
+🔵 Azure AKS
+🔵 Google GKE
+⚪ OpenShift
+⚪ Rancher
+⚪ K3s
+
+**Learn Kubernetes, then use the managed Kubernetes service belonging to your chosen cloud.**
+
+↓
+
+## 15. GITOPS
+
+🔵 Argo CD
+🔵 Flux
+
+**Choose one.**
+
+↓
+
+## 16. MONITORING & OBSERVABILITY
+
+🟢 Prometheus
+🟢 Grafana
+🟢 OpenTelemetry
+🟡 Loki
+🟡 Elastic Stack
+🔵 Datadog
+🔵 Dynatrace
+🔵 New Relic
+⚪ Splunk
+⚪ Jaeger
+
+↓
+
+## 17. SECURITY & DEVSECOPS
+
+🟢 IAM
+🟢 Secrets Management
+🟢 Trivy
+🟡 HashiCorp Vault
+🟡 OWASP ZAP
+🟡 SonarQube
+🟡 Snyk
+🟡 OPA
+🟡 Falco
+⚪ Checkov
+⚪ Cosign
+⚪ Syft
+⚪ Grype
+
+↓
+
+## 18. KUBERNETES NETWORKING & PLATFORM TOOLS
+
+🟡 CoreDNS
+🟡 Cilium
+⚪ Calico
+⚪ Istio
+⚪ cert-manager
+⚪ External Secrets Operator
+
+↓
+
+## 19. LOGGING
+
+🟢 Linux/systemd logs
+🟡 Loki
+🟡 Elastic Stack
+⚪ Fluent Bit
+⚪ Fluentd
+⚪ Logstash
+⚪ Splunk
+
+↓
+
+## 20. RELIABILITY & INCIDENT OPERATIONS
+
+🟢 Prometheus
+🟢 Grafana
+🟡 PagerDuty
+🟡 Opsgenie / Jira Service Management
+⚪ ServiceNow
+
+↓
+
+## 21. COLLABORATION & ENGINEERING WORKFLOW
+
+🟢 GitHub / GitLab
+🟡 Jira
+🟡 Confluence
+🟡 Slack
+🟡 Microsoft Teams
+
+↓
+
+## 22. ADVANCED / SPECIALIZATION
+
+⚪ Backstage
+⚪ Crossplane
+⚪ Argo Rollouts
+⚪ Istio
+⚪ Cilium
+⚪ OpenCost
+⚪ Kubecost
+⚪ OpenFeature
+⚪ HashiCorp Vault
+
+### ADVANCED CAREER PATHS
+
+⚪ Site Reliability Engineering
+⚪ Platform Engineering
+⚪ Infrastructure Engineering
+⚪ Production Engineering
+⚪ DevSecOps
+⚪ GitOps
+⚪ FinOps
+⚪ Observability Engineering
+⚪ Release Engineering
+⚪ Cloud Security
+⚪ AI for Infrastructure / AIOps
+
+---
+
+# THE PATH AT A GLANCE
+
+**Linux**
+↓
+**Networking**
+↓
+**Git + GitHub**
+↓
+**Bash + Python + YAML + JSON**
+↓
+**Web Servers + Databases**
+↓
+**Choose One Cloud**
+↓
+**Docker**
+↓
+**Terraform/OpenTofu + Ansible**
+↓
+**Choose One CI/CD Platform**
+↓
+**Artifacts + Code Quality**
+↓
+**Kubernetes + Helm**
+↓
+**Choose One GitOps Tool**
+↓
+**Observability**
+↓
+**Security**
+↓
+**Reliability + Production Operations**
+↓
+**Projects + Troubleshooting + Career**
+
+### ONE FINAL MESSAGE ON THE ROADMAP
+
+**Do not learn every logo.**
+
+🟢 **Learn these first**
+🔵 **Choose one**
+🟡 **Know the basics**
+⚪ **Learn later when needed**
+
+**Principles first. Tools second. Build while you learn.**
+
+
 
 ## Recommended Learning Path
 
