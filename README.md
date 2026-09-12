@@ -432,18 +432,26 @@ The goal is to learn how to:
 
 6. YAML and JSON [ID: DATA-YAML-JSON-006](https://github.com/veriqta/DEVOPS-WORLD/tree/84e20ef9efd091b4b74a1a1c1976f3b5a4a867b5/03.%20LEARNING%20RESOURCES/06.%20YAML%20and%20JSON)
 
-7. Python for automation
+7. Python for automation [ID: SCRIPT-PYTHON-007](https://github.com/veriqta/DEVOPS-WORLD/tree/fed59428a4253417a926047b2f9388100c3c7939/03.%20LEARNING%20RESOURCES/07.%20Python%20for%20Automation)
 
 ### Stage 2: Infrastructure Foundations
 
 8. Cloud computing fundamentals
+
 9. AWS, Azure, or Google Cloud
+
 10. Web servers and reverse proxies
+
 11. Databases
+
 12. Containers
+
 13. Docker
+
 14. Infrastructure as Code
+
 15. Terraform or OpenTofu
+
 16. Configuration management
 
 ### Stage 3: Delivery and Automation
