@@ -1,6 +1,6 @@
 # HAPPY LEARNING 📌
 
-<img width="1024" height="1536" alt="DevOps RoadMap" src="https://github.com/veriqta/DEVOPS-WORLD/blob/main/00.%20%20ARCHIVE%20RESOURCES/01.%20Legacy%20Resources/DEVOPS-WORLD.png" />
+<img width="1024" height="1536" alt="DevOps RoadMap" src="https://github.com/veriqta/DEVOPS-WORLD/blob/main/00.%20%20ARCHIVE%20RESOURCES/01.%20Legacy%20Resources/devops-world%20map.png" />
 
 
 # DEVOPS-WORLD
